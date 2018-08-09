@@ -5,7 +5,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/go-xorm/xorm"
+	"github.com/amoeba-inc/xorm"
 )
 
 // User describes a user
